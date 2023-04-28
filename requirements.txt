@@ -1,5 +1,0 @@
-pandas
-classla
-sentence-transformers
-matplotlib
-sklearn
